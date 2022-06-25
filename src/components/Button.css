@@ -1,0 +1,22 @@
+button {
+    color: white;
+    background-color: rgb(165, 42, 149);
+    border: unset;
+    border-radius: 5px;
+    min-height: 10px;
+    padding: 5px 10px 5px 10px;
+    transition: ease-in-out;
+    transition-duration: 80ms;
+}
+
+button:hover {
+    transition: ease-in-out;
+    transition-duration: 80ms;
+    background-color: rgb(128, 33, 115);
+}
+
+button:active {
+    transition: ease-in-out;
+    transition-duration: 80ms;
+    background-color: rgb(92, 20, 82);
+}

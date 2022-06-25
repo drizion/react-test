@@ -1,0 +1,17 @@
+.Navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 20px;
+    background-color: black;
+}
+
+.Nav-link {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 30px;
+    padding-right: 15px;
+}
