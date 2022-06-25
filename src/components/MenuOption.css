@@ -1,5 +1,11 @@
 a {
-    color: white;
+    transition: ease-in-out 50ms;
+    color: rgb(190, 190, 190);
     text-decoration: none;
     margin: 0 8px;
+}
+
+a:hover {
+    transition: ease-in-out 50ms;
+    color: white;
 }

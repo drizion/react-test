@@ -10,13 +10,11 @@ button {
 }
 
 button:hover {
-    transition: ease-in-out;
-    transition-duration: 80ms;
+    transition: ease-in-out 50ms;
     background-color: rgb(128, 33, 115);
 }
 
 button:active {
-    transition: ease-in-out;
-    transition-duration: 80ms;
+    transition: ease-in-out 50ms;
     background-color: rgb(92, 20, 82);
 }
